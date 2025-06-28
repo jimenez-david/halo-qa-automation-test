@@ -44,8 +44,8 @@ project-root/
 
 ### 2. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-project-directory>
+git clone git@github.com:jimenez-david/halo-qa-automation-test.git
+cd halo-qa-automation-test ## or replace with the folder name if you cloned it elsewhere
 ```
 
 ### 3. Install Dependencies
